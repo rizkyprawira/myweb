@@ -3,7 +3,6 @@ name: myweb
 description: A Helm chart for deploying the MyWeb Next.js application
 type: application
 version: 1.0.0
-appVersion: "1.0.2"
 keywords:
   - nextjs
   - web-application

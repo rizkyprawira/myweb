@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: "myweb"
+  repository: "rizkyprawira/myweb"
   tag: "develop"
 
 service:
