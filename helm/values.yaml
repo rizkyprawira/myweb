@@ -60,11 +60,6 @@ readinessProbe:
   timeoutSeconds: 3
   failureThreshold: 3
 
-securityContext:
-  runAsNonRoot: true
-  runAsUser: 1000
-  fsGroup: 1000
-
 podAnnotations: {}
 
 podSecurityContext: {}
