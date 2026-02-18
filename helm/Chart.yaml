@@ -1,0 +1,15 @@
+apiVersion: v2
+name: myweb
+description: A Helm chart for deploying the MyWeb Next.js application
+type: application
+version: 1.0.0
+appVersion: "1.0.2"
+keywords:
+  - nextjs
+  - web-application
+maintainers:
+  - name: Rizky Prawira
+    email: rizky@prawira.dev
+home: https://github.com/rizkyprawira/myweb
+sources:
+  - https://github.com/rizkyprawira/myweb
